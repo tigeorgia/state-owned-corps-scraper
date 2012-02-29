@@ -10,8 +10,8 @@ Results will appear in the file results-lang.tab
 
 Dependencies
 ------------
-*[html5lib](http://code.google.com/p/html5lib/)
-*[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) -- should work with all BS 3.x
+* [html5lib](http://code.google.com/p/html5lib/)
+* [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) -- should work with all BS 3.x
 
 Languages
 -----------
