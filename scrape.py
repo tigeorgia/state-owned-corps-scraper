@@ -9,7 +9,7 @@ from html5lib import treebuilders
 #lang = u'eng'
 #lang = u'geo'
 lang = u'rus'
-filename=u'results-'+lang+u'.csv'
+filename=u'results-'+lang+u'.tab'
 # Clobber existing file
 f = codecs.open(filename, 'w', 'utf-8')
 f.write(u'Name\tID\tOfficial Address\tActual Address\tPhone\tFax\tE-Mail\tWebsite\tForm\tStatus\tNo. Employees\tAuthorized Capital\tState share\tDir. FName\tDir. LName\tDir. Title\tDir. Phone\tDir. Mobile\tURL\n')

@@ -6,6 +6,8 @@ Usage
 ------------
 `python scrape.py`
 
+Results will appear in the file results-lang.tab
+
 Dependencies
 ------------
 [html5lib](http://code.google.com/p/html5lib/)
